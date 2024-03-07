@@ -1,0 +1,5 @@
+﻿  jsonStudy.cpp
+D:\2.5\C++\yz\jsonStudy\jsonStudy\XmlDocument.h(6,1): warning C4278: “DOMDocument”: 类型库“msxml3.dll”中的标识符已经是宏；使用“rename”限定符
+  XmlDocument.cpp
+  正在生成代码...
+  jsonStudy.vcxproj -> D:\2.5\C++\yz\jsonStudy\Debug\jsonStudy.exe
