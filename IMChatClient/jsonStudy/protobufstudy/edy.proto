@@ -1,0 +1,10 @@
+message EmbeddedMessage{
+    required uint32 mSubCmd = 1;
+    required string strParams = 2;
+}
+
+message EdyMsg{
+    required uint32 nCmd = 1 [default = 0];
+    required string strData = 2;
+    optional EmbeddedMessage subMsg = 3;
+}
