@@ -1,0 +1,6 @@
+/home/ada/EdyIM_server/EdoyunIM_server/out/build/ubuntu/CMakeFiles/rebuild_cache.dir
+/home/ada/EdyIM_server/EdoyunIM_server/out/build/ubuntu/CMakeFiles/edit_cache.dir
+/home/ada/EdyIM_server/EdoyunIM_server/out/build/ubuntu/EdoyunIM_server/CMakeFiles/rebuild_cache.dir
+/home/ada/EdyIM_server/EdoyunIM_server/out/build/ubuntu/EdoyunIM_server/CMakeFiles/imchatserver.dir
+/home/ada/EdyIM_server/EdoyunIM_server/out/build/ubuntu/EdoyunIM_server/CMakeFiles/edit_cache.dir
+/home/ada/EdyIM_server/EdoyunIM_server/out/build/ubuntu/EdoyunIM_server/CMakeFiles/imfileserver.dir

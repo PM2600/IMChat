@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/imfileserver.dir/EdoyumIMTestClient.cpp.o"
+  "CMakeFiles/imfileserver.dir/base/Timestamp.cc.o"
+  "CMakeFiles/imfileserver.dir/base/TimeZone.cc.o"
+  "CMakeFiles/imfileserver.dir/base/Date.cc.o"
+  "CMakeFiles/imfileserver.dir/base/CountDownLatch.cc.o"
+  "CMakeFiles/imfileserver.dir/base/FileUtil.cc.o"
+  "CMakeFiles/imfileserver.dir/base/Logging.cc.o"
+  "CMakeFiles/imfileserver.dir/base/LogFile.cc.o"
+  "CMakeFiles/imfileserver.dir/base/LogStream.cc.o"
+  "CMakeFiles/imfileserver.dir/base/AsyncLogging.cc.o"
+  "CMakeFiles/imfileserver.dir/base/Thread.cc.o"
+  "CMakeFiles/imfileserver.dir/base/CurrentThread.cc.o"
+  "CMakeFiles/imfileserver.dir/base/ProcessInfo.cc.o"
+  "CMakeFiles/imfileserver.dir/base/Condition.cc.o"
+  "CMakeFiles/imfileserver.dir/net/Acceptor.cc.o"
+  "CMakeFiles/imfileserver.dir/net/Buffer.cc.o"
+  "CMakeFiles/imfileserver.dir/net/Channel.cc.o"
+  "CMakeFiles/imfileserver.dir/net/Connector.cc.o"
+  "CMakeFiles/imfileserver.dir/net/Poller.cc.o"
+  "CMakeFiles/imfileserver.dir/net/poller/DefaultPoller.cc.o"
+  "CMakeFiles/imfileserver.dir/net/poller/EPollPoller.cc.o"
+  "CMakeFiles/imfileserver.dir/net/poller/PollPoller.cc.o"
+  "CMakeFiles/imfileserver.dir/net/InetAddress.cc.o"
+  "CMakeFiles/imfileserver.dir/net/Socket.cc.o"
+  "CMakeFiles/imfileserver.dir/net/SocketsOps.cc.o"
+  "CMakeFiles/imfileserver.dir/net/TcpClient.cc.o"
+  "CMakeFiles/imfileserver.dir/net/TcpConnection.cc.o"
+  "CMakeFiles/imfileserver.dir/net/TcpServer.cc.o"
+  "CMakeFiles/imfileserver.dir/net/EventLoop.cc.o"
+  "CMakeFiles/imfileserver.dir/net/EventLoopThread.cc.o"
+  "CMakeFiles/imfileserver.dir/net/EventLoopThreadPool.cc.o"
+  "CMakeFiles/imfileserver.dir/net/Timer.cc.o"
+  "CMakeFiles/imfileserver.dir/net/TimerQueue.cc.o"
+  "imfileserver.pdb"
+  "imfileserver"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/imfileserver.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
