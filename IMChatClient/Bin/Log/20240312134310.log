@@ -1,0 +1,10 @@
+[2024-03-12 13:43:12:0011][Normal] [ThreadID:19132][void __thiscall CSendMsgThread::HandleLogon(const class CLoginRequest *)]Request logon: Account=18888888888, Password=*****, Status=19143148, LoginType=1.
+[2024-03-12 13:43:12:0093][Warning] [ThreadID:21880][bool __thiscall CIUSocket::Recv(void)]Recv data error, disconnect server:192.168.88.146, port:9527.
+[2024-03-12 13:43:13:0095][Warning] [ThreadID:21880][bool __thiscall CIUSocket::Recv(void)]Recv data error, disconnect server:192.168.88.146, port:9527.
+[2024-03-12 13:43:14:0096][Warning] [ThreadID:21880][bool __thiscall CIUSocket::Recv(void)]Recv data error, disconnect server:192.168.88.146, port:9527.
+[2024-03-12 13:43:15:0098][Warning] [ThreadID:21880][bool __thiscall CIUSocket::Recv(void)]Recv data error, disconnect server:192.168.88.146, port:9527.
+[2024-03-12 13:43:16:0099][Warning] [ThreadID:21880][bool __thiscall CIUSocket::Recv(void)]Recv data error, disconnect server:192.168.88.146, port:9527.
+[2024-03-12 13:43:17:0102][Warning] [ThreadID:21880][bool __thiscall CIUSocket::Recv(void)]Recv data error, disconnect server:192.168.88.146, port:9527.
+[2024-03-12 13:43:18:0104][Warning] [ThreadID:21880][bool __thiscall CIUSocket::Recv(void)]Recv data error, disconnect server:192.168.88.146, port:9527.
+[2024-03-12 13:43:19:0105][Warning] [ThreadID:21880][bool __thiscall CIUSocket::Recv(void)]Recv data error, disconnect server:192.168.88.146, port:9527.
+[2024-03-12 13:43:20:0106][Warning] [ThreadID:21880][bool __thiscall CIUSocket::Recv(void)]Recv data error, disconnect server:192.168.88.146, port:9527.

@@ -1,0 +1,14 @@
+[2024-03-12 15:30:23:0943][Warning] [ThreadID:16772][bool __thiscall CIUSocket::Recv(void)]Recv data error, disconnect server:192.168.88.146, port:9527.
+[2024-03-12 15:30:24:0821][Normal] [ThreadID:17688][void __thiscall CSendMsgThread::HandleLogon(const class CLoginRequest *)]Request logon: Account=18888888888, Password=*****, Status=6417340, LoginType=1.
+[2024-03-12 15:30:27:0825][Error] [ThreadID:23052][int __thiscall CIUSocket::Connect(int)]Could not connect server:192.168.88.146, port:9527.
+[2024-03-12 15:30:27:0825][Warning] [ThreadID:23052][bool __thiscall CIUSocket::Send(void)]connect server:192.168.88.146:9527 error.
+[2024-03-12 15:30:27:0842][Warning] [ThreadID:23052][bool __thiscall CIUSocket::Send(void)]Send data error, disconnect server:192.168.88.146, port:9527.
+[2024-03-12 15:30:27:0842][Warning] [ThreadID:16772][bool __thiscall CIUSocket::Recv(void)]Recv data error, disconnect server:192.168.88.146, port:9527.
+[2024-03-12 15:30:30:0856][Error] [ThreadID:23052][int __thiscall CIUSocket::Connect(int)]Could not connect server:192.168.88.146, port:9527.
+[2024-03-12 15:30:30:0856][Warning] [ThreadID:23052][bool __thiscall CIUSocket::Send(void)]connect server:192.168.88.146:9527 error.
+[2024-03-12 15:30:30:0871][Warning] [ThreadID:23052][bool __thiscall CIUSocket::Send(void)]Send data error, disconnect server:192.168.88.146, port:9527.
+[2024-03-12 15:30:30:0871][Warning] [ThreadID:16772][bool __thiscall CIUSocket::Recv(void)]Recv data error, disconnect server:192.168.88.146, port:9527.
+[2024-03-12 15:30:33:0886][Error] [ThreadID:23052][int __thiscall CIUSocket::Connect(int)]Could not connect server:192.168.88.146, port:9527.
+[2024-03-12 15:30:33:0886][Warning] [ThreadID:23052][bool __thiscall CIUSocket::Send(void)]connect server:192.168.88.146:9527 error.
+[2024-03-12 15:30:33:0900][Warning] [ThreadID:23052][bool __thiscall CIUSocket::Send(void)]Send data error, disconnect server:192.168.88.146, port:9527.
+[2024-03-12 15:30:33:0900][Warning] [ThreadID:16772][bool __thiscall CIUSocket::Recv(void)]Recv data error, disconnect server:192.168.88.146, port:9527.

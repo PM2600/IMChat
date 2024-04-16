@@ -1,0 +1,1 @@
+[2024-03-12 16:57:07:0458][Normal] [ThreadID:17404][void __thiscall CSendMsgThread::HandleLogon(const class CLoginRequest *)]Request logon: Account=18888888888, Password=*****, Status=23665604, LoginType=1.

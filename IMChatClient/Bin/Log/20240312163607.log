@@ -1,0 +1,2 @@
+[2024-03-12 16:36:08:0748][Normal] [ThreadID:3068][void __thiscall CSendMsgThread::HandleLogon(const class CLoginRequest *)]Request logon: Account=18888888888, Password=*****, Status=21231916, LoginType=1.
+[2024-03-12 16:36:08:0801][Normal] [ThreadID:3068][void __thiscall CSendMsgThread::HandleUserBasicInfo(const class CUserBasicInfoRequest *)]Request to get userinfo.
