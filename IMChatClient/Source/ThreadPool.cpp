@@ -75,7 +75,7 @@ BOOL CThreadPool::Init(int nThreadNums)
 	m_hEvent_Exit = ::CreateEvent(NULL, TRUE, FALSE, NULL);
 	m_hEvent_ExitAll = ::CreateEvent(NULL, FALSE, FALSE, NULL);
 
-	::EnterCriticalSection(&m_csThreadInfo);
+	::EnterCriticalSection(&m_csThreadInfo); //临界区
 	for (int i = 0; i < nThreadNums; i++)
 	{
 		lpThreadInfo = new TP_THREAD_INFO;
@@ -244,7 +244,7 @@ UINT CThreadPool::ThreadProc(LPVOID lpParam)
 	if (NULL == lpThis)
 		return 0;
 
-	::InterlockedIncrement(&lpThis->m_lThreadNums);		// 增加线程计数
+	::InterlockedIncrement(&lpThis->m_lThreadNums);		// 增加线程计数，原子操作
 
 	hWaitEvent[0] = lpThis->m_hEvent_Exit;
 	hWaitEvent[1] = lpThis->m_hSemaphore_Task;
