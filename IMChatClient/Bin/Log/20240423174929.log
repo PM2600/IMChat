@@ -1,0 +1,2 @@
+[2024-04-23 17:49:32:0535][Error] [ThreadID:24292][int __thiscall CIUSocket::Connect(int)]Could not connect server:192.168.88.146, port:9527.
+[2024-04-23 17:49:40:0167][Normal] [ThreadID:24508][void __thiscall CSendMsgThread::HandleLogon(const class CLoginRequest *)]Request logon: Account=18888888888, Password=*****, Status=14127796, LoginType=1.

@@ -1,0 +1,1 @@
+[2024-04-23 17:44:24:0869][Error] [ThreadID:6348][int __thiscall CIUSocket::Connect(int)]Could not connect server:192.168.88.146, port:9527.
